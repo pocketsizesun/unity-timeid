@@ -1,0 +1,19 @@
+PATH
+  remote: .
+  specs:
+    unity-timeid (1.0.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rake (13.0.6)
+
+PLATFORMS
+  x86_64-darwin-20
+
+DEPENDENCIES
+  rake (~> 13.0)
+  unity-timeid!
+
+BUNDLED WITH
+   2.2.3
